@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryum Asif Khan</h1>
 <h3 align="center">Passionate Frontend Web Developer from Pakistan.</h3>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw2okRquvaNc_u9vVC-yd3Qf&ust=1738048274058000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKieg8mslYsDFQAAAAAdAAAAABAE" alt="coding" />
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="maryum" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryum763&label=Profile%20views&color=0e75b6&style=flat" alt="maryum763" /> </p>
 
 - 🌱 I’m currently learning **Web development**
